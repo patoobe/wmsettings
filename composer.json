@@ -1,5 +1,5 @@
 {
-    "name": "wieni/wmsettings",
+    "name": "patoobe/wmsettings",
     "type": "drupal-module",
     "description": "Provides an Editor UI and Developer API for managing custom settings",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "drupal/core": "^9.2 || ^10.0"
+        "drupal/core": "^9.2 || ^10.0 || ^11.0"
     },
     "require-dev": {
         "ergebnis/composer-normalize": "^2.0",
